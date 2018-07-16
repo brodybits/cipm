@@ -1,6 +1,6 @@
 {
   "name": "libcipm",
-  "version": "2.0.0",
+  "version": "2.0.1-bbfix1",
   "description": "programmatic API for cipm: a ci-oriented package installer for npm",
   "main": "index.js",
   "files": [
@@ -35,7 +35,7 @@
     "find-npm-prefix": "^1.0.2",
     "graceful-fs": "^4.1.11",
     "lock-verify": "^2.0.2",
-    "npm-lifecycle": "^2.0.3",
+    "npm-lifecycle": "github:brodybits/npm-lifecycle#bbfix1",
     "npm-logical-tree": "^1.2.1",
     "npm-package-arg": "^6.1.0",
     "pacote": "^8.1.6",
